@@ -9,4 +9,4 @@ function getComputerChoice(types) {
 }
 
 // set the name of the types
-let names = ['Rock', 'Paper', 'Scissors'];
+let types = ['Rock', 'Paper', 'Scissors'];
